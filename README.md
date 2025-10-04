@@ -1,4 +1,4 @@
-# Week 04: The Fast Fourier Transform
+# Week 05: ANN / Perceptron
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
